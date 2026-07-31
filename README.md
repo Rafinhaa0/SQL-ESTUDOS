@@ -1,5 +1,6 @@
 # SQL-ESTUDOS
 Repositório com exercícios de SQL organizados por nível de dificuldade, focado em Suporte ERP e Banco de Dados.
+Banco de dados utilizado foi o do Curso Aprenda SQL - Primeiras Magias na linguagem de dados do Téo me why
 
 # SQL Estudos
 
