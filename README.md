@@ -24,14 +24,14 @@ O objetivo é desenvolver domínio da linguagem para atuar como Analista de Supo
 
  SQL Intermediário
 
-- [ ] COUNT
-- [ ] SUM
-- [ ] AVG
-- [ ] MIN
-- [ ] MAX
-- [ ] DISTINCT
-- [ ] GROUP BY
-- [ ] HAVING
+- [x] COUNT
+- [x] SUM
+- [x] AVG
+- [x] MIN
+- [x] MAX
+- [x] DISTINCT
+- [x] GROUP BY
+- [x] HAVING
 
  SQL Avançado
 
