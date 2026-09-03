@@ -1,6 +1,7 @@
 # SQL-ESTUDOS
 Repositório com exercícios de SQL organizados por nível de dificuldade, focado em Suporte ERP e Banco de Dados.
 Banco de dados utilizado foi o do Curso Aprenda SQL - Primeiras Magias na linguagem de dados do Téo me why
+e do curso Domine a linguagem SQL E T-SQL do básico ao avançado Instrutor André Rosa Da Udemy
 
 # SQL Estudos
 
@@ -47,7 +48,7 @@ O objetivo é desenvolver domínio da linguagem para atuar como Analista de Supo
 
 Banco utilizado:
 
-- SQLite
+- SQLite e SQL SERVER
 
 Objetivo:
 
